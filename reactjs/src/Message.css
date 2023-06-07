@@ -1,0 +1,45 @@
+body{
+    background-image:url(https://www.xtrafondos.com/en/descargar.php?id=6504&resolucion=1280x720);
+}
+.mensaje{
+    color:rgb(62, 83, 242);
+}
+
+.animals{
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1553949345-eb786bb3f7ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80);
+    color: rgb(157, 84, 230);
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-family: fantasy;
+}
+.bienvenido{
+    text-align: center;
+	margin-top: 30px;
+	color: #3d0e8f;
+	text-shadow:  rgba(84, 117, 236, 0.776) -2px 4px;
+	font-size: 100%;
+
+}
+.image{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.final{
+    text-align: center;
+}
+img {
+    max-width: 40%;
+    height: auto;
+    max-height: 40%;
+    margin: auto;
+    display: block;
+}
